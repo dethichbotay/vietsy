@@ -2,7 +2,7 @@
 
 #EXTINF:0 tvg-id="boxmovie1" group-title="BQ" tvg-logo="https://i.imgur.com/ZxEieHa.png",Bản quyền | ❤️Đỗ Viết Sỹ❤️
 #EXTVLCOPT:http-user-agent=dovietsy
-https://live-on-v2-cdnetwork.sigmaott.com/manifest/btv5/playlist_720p.m3u8|Referer=https://www.vtvcab.vn/
+https://live-on-v2-cdnetwork.sigmaott.com/btv5/playlist_720p.m3u8|Referer=https://www.vtvcab.vn/
 
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔!-VTV
 #-*-❤️-VTV*VIEON-*--#
